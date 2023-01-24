@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Makeup Application</string>
+    <string name="go_back">GO BACK</string>
+    <string name="image_item">List item image</string>
+    <string name="image_full">Full product image</string>
+</resources>
